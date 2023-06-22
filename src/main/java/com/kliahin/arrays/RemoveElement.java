@@ -17,12 +17,6 @@ public class RemoveElement {
         return i;
     }
 
-    private static void removeElementFromArray(int[] arr, int pos){
-        for (int i = pos + 1; i < arr.length; i++){
-            arr[i-1] = arr[i];
-        }
-        arr[arr.length - 1] = 0;
-    }
     public static void main(String[] args) {
         int[] test1 = new int[]{3, 2, 2, 3}; int val1 = 3;
         int[] test2 = new int[]{0, 1, 2, 2, 3, 0, 4, 2}; int val2 = 2;
