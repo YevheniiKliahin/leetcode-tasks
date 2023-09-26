@@ -1,8 +1,6 @@
-package com.kliahin.arrays;
+package com.kliahin.arrays_old;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 public class HeightChecker {
 

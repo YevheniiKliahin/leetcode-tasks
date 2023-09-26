@@ -1,4 +1,4 @@
-package com.kliahin.arrays;
+package com.kliahin.arrays_old;
 
 public class FindNumbersWithEvenNumberOfDigit {
 

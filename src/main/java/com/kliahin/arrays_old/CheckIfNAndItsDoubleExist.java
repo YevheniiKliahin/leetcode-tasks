@@ -1,4 +1,4 @@
-package com.kliahin.arrays;
+package com.kliahin.arrays_old;
 
 import java.util.HashMap;
 import java.util.Map;

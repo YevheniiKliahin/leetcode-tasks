@@ -1,8 +1,8 @@
-package com.kliahin.arrays;
+package com.kliahin.arrays_old;
 
 import java.util.Arrays;
 
-public class RemoveDuplicatesFromSortedArray {
+public class RemoveDuplicatesSortedArray {
 
     public static int removeDuplicates(int[] nums) {
         int result = 0;
